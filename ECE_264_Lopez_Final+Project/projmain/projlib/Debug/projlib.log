@@ -1,0 +1,15 @@
+﻿Build started 12/13/2013 1:57:10 PM.
+     1>Project "C:\Users\emilopez\Desktop\Final+Project\projmain\projlib\projlib.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt prjlib.c
+         prjlib.c
+     1>c:\users\emilopez\desktop\final+project\projmain\projlib\prjlib.c(20): warning C4996: '_getsystime': This function or variable has been superceded by newer library or operating system functionality. Consider using GetLocalTime instead. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\time.h(214) : see declaration of '_getsystime'
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\Users\emilopez\Desktop\Final+Project\projmain\Debug\projlib.lib" /NOLOGO Debug\prjlib.obj
+         projlib.vcxproj -> C:\Users\emilopez\Desktop\Final+Project\projmain\Debug\projlib.lib
+     1>Done Building Project "C:\Users\emilopez\Desktop\Final+Project\projmain\projlib\projlib.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.73

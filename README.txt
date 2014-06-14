@@ -1,0 +1,1 @@
+The purpose of this repo is to demonstrate my fundamental understanding of the C programming language from different lab projects

@@ -1,0 +1,17 @@
+﻿Build started 11/7/2013 9:59:17 PM.
+     1>Project "C:\Users\Jie Ling\Downloads\projmain\projmain\projlib\projlib.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\projlib.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Lib:
+         All outputs are up-to-date.
+         projlib.vcxproj -> C:\Users\Jie Ling\Downloads\projmain\projmain\Release\projlib.lib
+       FinalizeBuildStatus:
+         Deleting file "Release\projlib.unsuccessfulbuild".
+         Touching "Release\projlib.lastbuildstate".
+     1>Done Building Project "C:\Users\Jie Ling\Downloads\projmain\projmain\projlib\projlib.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.37
